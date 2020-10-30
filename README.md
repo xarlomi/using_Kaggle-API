@@ -1,4 +1,4 @@
-![portada](https://github.com/agalvezcorell/using_Kaggle-API/blob/main/images/portada.jpg)
+![portada](https://github.com/agalvezcorell/using_Kaggle-API/blob/main/images/portada_.jpg)
 
 ## You can download Kaggle datasets directly from the API!
 
