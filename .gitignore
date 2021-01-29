@@ -1,3 +1,4 @@
 .DS_Store
 /tools
 .ipynb_checkpoints
+notebooks/.jovianrc
